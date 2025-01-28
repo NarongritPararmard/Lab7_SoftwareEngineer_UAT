@@ -1,0 +1,3 @@
+FROM busybox
+CMD echo "Hi there. This is my first docker image."
+CMD echo "Name:Narongrit Pararmard Student_Id:653380265-6 Nick_Name:fan"
